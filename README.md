@@ -60,7 +60,7 @@ AnimateDiff 官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
 - 生成视频分辨率建议不要太大，可以先生成 512x768 的视频，后期用其他软件提高分辨率（如 Topaz）
 - 提示词建议不超过 75 个，否则有概率报错
 - 图生图时重绘幅度不要低于 0.6，否则会有雪花斑点
-- 总帧率设为 8 时会报错，大于等于 16 则不会。
+- 总帧率最低 16 ，设成 8 或 12 会出图不正常。
 - 部分反向提示词会导致报错，报错显示 Assertion '-sizes[i]<= index && index < sizes[i] && "index out of bounds"'failed. 清空反向提示词则正常
 
 ### 待解决
