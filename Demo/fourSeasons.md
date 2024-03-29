@@ -1,3 +1,4 @@
+![image](https://github.com/ChowLiang2000/AnimateDiff-/blob/master/Demo/00000-1233104281.gif)
 ### text2image
 
 文生图模块
