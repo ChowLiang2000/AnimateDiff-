@@ -4,7 +4,7 @@
 
 ### positive prompt（出自 Nenly 同学的教程）
 
-best quality, masterpiece, 1girl, upper body, detailed face, looking at viewer, outdoors, upper body, standing, outdoors,
+best quality, masterpiece, 1girl, upper body, detailed face, looking at viewer, outdoors, standing
 
 0: (spring:1.2), cherry blossoms, falling petals, pink theme,
 
