@@ -3,6 +3,8 @@
 2024.3.28
 秋叶包 SD-WEBUI 1.8 内核 aki-4.6.1 / aki-4.7
 
+![image](https://github.com/ChowLiang2000/AnimateDiff-/blob/master/00005-1144810708.gif)
+
 ### 安装插件
 
 - SD WebUI 扩展列表搜索 AnimateDiff
