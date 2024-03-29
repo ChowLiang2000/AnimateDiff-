@@ -69,7 +69,7 @@ AnimateDiff 官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
 
   图生图可以用 controlNet（512x512）
 
-- aki-4.7+3 月新版本 animateDiff 文生图可以生成 768 高的视频，用 controlNet 的 openpose 没问题
+- aki-4.7 + 3 月新版本 animateDiff 文生图可以生成 512x768 的视频，用 controlNet 的 openpose 没问题
   图生图用 controlNet 会报错，只生成 image grade,不生成视频
   ![image](https://github.com/ChowLiang2000/Stable-Diffusion-WebUI-/assets/149044657/fcbe965d-8a73-4982-950c-059ac59bbe26)
   想要快一点看效果，总帧率设为 8，结果会报错，设为 16 则不会。
