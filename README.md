@@ -65,6 +65,9 @@ AnimateDiff 官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
 
 ### 待解决
 
+<details>
+<summary>展开 </summary>
+
 - aki-4.6+2024.2.9 版本 animateDiff:
   出现只能绘制 512x512 的问题，尺寸改成 512x768 就报错'index out of bounds'failed
 
@@ -75,6 +78,7 @@ AnimateDiff 官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
 - aki-4.7 + 3 月新版本 animateDiff 文生图可以生成 512x768 的视频，用 controlNet 的 openpose 没问题
   图生图用 controlNet 会报错，只生成 image grade,不生成视频
 - Nenly 教程中推荐在设置中补齐提示词，这个作用是什么？
+</details>
 
 ### 参考：
 
